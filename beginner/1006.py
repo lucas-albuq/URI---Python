@@ -1,0 +1,5 @@
+notaA = float(input())
+notaB = float(input())
+notaC = float(input())
+mediaNotas = (notaA * 2 + notaB * 3 + notaC * 5)/(2 + 3 + 5)
+print(f'MEDIA = {mediaNotas:.1f}')
